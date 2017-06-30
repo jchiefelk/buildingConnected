@@ -1,0 +1,38 @@
+body { margin: 0; }
+
+.main {display: flex; flex-direction: column; align-items: center; }
+
+.main input {
+	width: 20em;
+	height: 4em;
+	cursor: pointer;
+	margin-top: 2em;
+}
+
+#moreinfo {
+	display: flex;
+	flex-direction: column;
+	margin-top: 1em;
+	width: 70%;
+}
+
+#moreinfo select {
+	border-width: 0;
+	background-color: white;
+	width: 100%;
+	height: 3em;
+	font-size: 1.5em;
+	font-family: "New Courier";
+	font-width: 500;
+}
+
+#moreinfo img {
+	padding-right: 2em;
+	height: 1.6em;
+	margin-top: 1em;
+}
+
+#moreinfo div {
+	display: flex;
+	align-items: center;
+}
