@@ -9,6 +9,6 @@
   },
   "devDependencies": {
     "chance": "^1.0.4",
-    "mongodb": "^2.2.16"
+    "mongodb": "^3.6.1"
   }
 }
